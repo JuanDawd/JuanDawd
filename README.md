@@ -85,18 +85,5 @@
 <img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright"/>
 <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/>
 
-## GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDawd&count_private=true&show_icons=true&bg_color=85,000000,FF0000&text_color=FFF&title_color=FFF&icon_color=FFF&border_color=000&layout=donut" alt="Top Languages"/>
-
-<br />
-<br />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanDawd&count_private=true&show_icons=true&bg_color=850,000000,FF0000&text_color=FFF&title_color=FFF&icon_color=FFF&border_color=000" alt="GitHub Stats"/>
-
-<br />
-<br />
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JuanDawd&theme=highcontrast&border_radius=5&card_width=500&background=85%2C000000%2CFF0000" alt="GitHub Streak"/></a>
 
 </div>
