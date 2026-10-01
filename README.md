@@ -1,9 +1,9 @@
 <div align="center">
 
-<a href="https://juandawd-portfolio.vercel.app/" target="blank">
+<a href="https://juandawd.dev" target="blank">
   <h1>Hey! I'm Juan Dawd</h1>
 </a>
-<h3>Full-Stack Developer · 8+ years · Colombia</h3>
+<h3>Full-Stack Developer · 4+ years · React · Next.js · Node.js · TypeScript · Colombia</h3>
 
 <a href="https://github.com/JuanDawd/" target="blank">
   <img src="https://img.shields.io/badge/github%20-%23161b22.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -11,23 +11,63 @@
 <a href="https://www.linkedin.com/in/juandawd/" target="blank">
   <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://juandawd-portfolio.vercel.app/" target="blank">
+<a href="https://juandawd.dev" target="blank">
   <img src="https://img.shields.io/badge/portfolio%20-%237100d3.svg?&style=for-the-badge&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
 
-<div align="center">
-
 ## About me
 
 </div>
 
-- 🔭 Currently building **[Innovation Befine](https://juandawd-portfolio.vercel.app)** — a SaaS operations platform for LATAM salons & workshops
-- 💼 Software Developer at **Melt Studio** — Next.js monorepo, Redis/MQTT pipelines, CI/CD automation
-- 🎓 Master's in Software Engineering — UNIR
+Full-Stack Developer who owns the whole stack, from schema to UI to deployment. I ship production web and mobile apps, lead architecture on small teams, and care about review practices, tests and CI as the quality gate.
+
+- 🔭 Building **Innovation Befine**, a SaaS replacing WhatsApp + Excel for LATAM salons & workshops
+- 💼 Full-Stack Developer at **Melt Studio** (nearshore consultancy, Mar 2024 – present), acting as technical lead on the latest project
+- 🎓 Master's in Software Engineering (UNIR, 2025) · B.S. Systems & Computer Engineering (Universidad del Norte, 2022)
+- 📚 Learning: system design, multi-tenancy patterns, web performance and accessibility
+- 🌎 Open to remote roles · Spanish (native) · English (C1)
 - 📫 Reach me at **juandawdb@gmail.com**
 - 😄 Pronouns: **he/him**
+
+<div align="center">
+
+## What I've shipped
+
+</div>
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Innovation Befine** (2025 – present) | Solo-built, multi-tenant salon-operations SaaS: real-time cashier dashboard over native SSE, three-model payroll engine (commission, piece-rate, daily-rate), offline PWA with an IndexedDB queue, 4-role RBAC | Next.js, Turborepo, Neon, Drizzle, Better Auth, Vitest, Playwright |
+| **Melt Studio** (2024 – present) | 4 web/mobile products on the Next.js App Router, real-time IoT pipelines (MQTT → Redis → DB), AWS infrastructure, and GitLab CI/CD that cut mobile releases from ~8h to 1–2h | Next.js, Turborepo, MySQL/Postgres, Redis, MQTT, AWS |
+| [**Droguería Uno A**](https://www.drogueria-uno-a.com) (2026) | Public website for a pharmacy in Maicao, Colombia, with a WhatsApp contact flow | React 19, Vite, Tailwind v4, Radix, Vercel |
+| [**Guarapo Blocks API**](https://github.com/JuanDawd/guarapo-ssr) | Open-source REST API and docs for a UI blocks library, with a full OpenAPI spec | Next.js, Prisma, PostgreSQL, Jest |
+| [**juandawd.dev**](https://juandawd.dev) | My portfolio: bento grid, D3 visualizations, Framer Motion | React 19, Vite 7, Tailwind v4 |
+| **Self-hosted homelab** | Vaultwarden on a Raspberry Pi behind Cloudflare Tunnel + Access (no open ports), daily backups, migrating to Proxmox | Docker, Cloudflare, Linux |
+
+<div align="center">
+
+## Experience
+
+</div>
+
+| Period | Role | Highlights |
+|---|---|---|
+| 2024 – present | Full-Stack Developer · **Melt Studio** | Turborepo monorepos, Redis/MQTT, AWS, CI/CD, architecture leadership |
+| 2023 | Full-Stack Developer · **Overnights Technologies** | RESTful APIs for web and mobile clients, backend tuning, mentoring |
+| 2022 – 2023 | Frontend Developer · **Selii** | Multi-tenant e-commerce storefront, Atomic Design + Storybook |
+| 2022 | Frontend Developer · **Faceself** | iOS/Android wellness app (20+ screens) with React, Ionic, Capacitor |
+| 2022 | Full-Stack Developer · **CheeseOkay** | Angular 13/14 + Ionic PWA, Express/Sequelize API modules |
+| 2020 | Full-Stack Developer · **Doc.tors** | Express.js APIs and a Flutter MVP for investor demos |
+
+<div align="center">
+
+## My default stack in 2026
+
+`Next.js App Router` · `Neon Postgres + Drizzle` · `Better Auth` · `shadcn/ui + Tailwind` · `TanStack Query + Zustand` · `React Hook Form + Zod` · `Vitest + Playwright` · `Turborepo` · `Vercel`
+
+</div>
 
 <div align="center">
 
