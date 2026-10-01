@@ -24,7 +24,7 @@
 Full-Stack Developer who owns the whole stack, from schema to UI to deployment. I ship production web and mobile apps, lead architecture on small teams, and care about review practices, tests and CI as the quality gate.
 
 - 🔭 Building **Innovation Befine**, a SaaS replacing WhatsApp + Excel for LATAM salons & workshops
-- 💼 Full-Stack Developer at **Melt Studio** (nearshore consultancy, Mar 2024 – present), acting as technical lead on the latest project
+- 💼 Full-Stack Developer at **Melt Studio** (nearshore consultancy, Mar 2024 – present)
 - 🎓 Master's in Software Engineering (UNIR, 2025) · B.S. Systems & Computer Engineering (Universidad del Norte, 2022)
 - 📚 Learning: system design, multi-tenancy patterns, web performance and accessibility
 - 🌎 Open to remote roles · Spanish (native) · English (C1)
@@ -40,7 +40,6 @@ Full-Stack Developer who owns the whole stack, from schema to UI to deployment. 
 | Project | What it is | Stack |
 |---|---|---|
 | **Innovation Befine** | Solo-built, multi-tenant salon-operations SaaS: real-time cashier dashboard over native SSE, three-model payroll engine (commission, piece-rate, daily-rate), offline PWA with an IndexedDB queue, 4-role RBAC | Next.js, Turborepo, Neon, Drizzle, Better Auth, Vitest, Playwright |
-| **Melt Studio** (2024 – present) | 4 web/mobile products on the Next.js App Router, real-time IoT pipelines (MQTT → Redis → DB), AWS infrastructure, and GitLab CI/CD that cut mobile releases from ~8h to 1–2h | Next.js, Turborepo, MySQL/Postgres, Redis, MQTT, AWS |
 | [**Droguería Uno A**](https://www.drogueria-uno-a.com) | Public website for a pharmacy in Maicao, Colombia, with a WhatsApp contact flow | React 19, Vite, Tailwind v4, Radix, Vercel |
 | [**Guarapo Blocks API**](https://github.com/JuanDawd/guarapo-ssr) | Open-source REST API and docs for a UI blocks library, with a full OpenAPI spec | Next.js, Prisma, PostgreSQL, Jest |
 | [**juandawd.dev**](https://juandawd.dev) | My portfolio: bento grid, D3 visualizations, Framer Motion | React 19, Vite 7, Tailwind v4 |
@@ -54,7 +53,7 @@ Full-Stack Developer who owns the whole stack, from schema to UI to deployment. 
 
 | Period | Role | Highlights |
 |---|---|---|
-| 2024 – present | Full-Stack Developer · **Melt Studio** | Turborepo monorepos, Redis/MQTT, AWS, CI/CD, architecture leadership |
+| 2024 – present | Full-Stack Developer · **Melt Studio** | Turborepo monorepos, Redis/MQTT, AWS, CI/CD automation |
 | 2023 | Full-Stack Developer · **Overnights Technologies** | RESTful APIs for web and mobile clients, backend tuning, mentoring |
 | 2022 – 2023 | Frontend Developer · **Selii** | Multi-tenant e-commerce storefront, Atomic Design + Storybook |
 | 2022 | Frontend Developer · **Faceself** | iOS/Android wellness app (20+ screens) with React, Ionic, Capacitor |
