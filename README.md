@@ -39,9 +39,9 @@ Full-Stack Developer who owns the whole stack, from schema to UI to deployment. 
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Innovation Befine** (2025 – present) | Solo-built, multi-tenant salon-operations SaaS: real-time cashier dashboard over native SSE, three-model payroll engine (commission, piece-rate, daily-rate), offline PWA with an IndexedDB queue, 4-role RBAC | Next.js, Turborepo, Neon, Drizzle, Better Auth, Vitest, Playwright |
+| **Innovation Befine** | Solo-built, multi-tenant salon-operations SaaS: real-time cashier dashboard over native SSE, three-model payroll engine (commission, piece-rate, daily-rate), offline PWA with an IndexedDB queue, 4-role RBAC | Next.js, Turborepo, Neon, Drizzle, Better Auth, Vitest, Playwright |
 | **Melt Studio** (2024 – present) | 4 web/mobile products on the Next.js App Router, real-time IoT pipelines (MQTT → Redis → DB), AWS infrastructure, and GitLab CI/CD that cut mobile releases from ~8h to 1–2h | Next.js, Turborepo, MySQL/Postgres, Redis, MQTT, AWS |
-| [**Droguería Uno A**](https://www.drogueria-uno-a.com) (2026) | Public website for a pharmacy in Maicao, Colombia, with a WhatsApp contact flow | React 19, Vite, Tailwind v4, Radix, Vercel |
+| [**Droguería Uno A**](https://www.drogueria-uno-a.com) | Public website for a pharmacy in Maicao, Colombia, with a WhatsApp contact flow | React 19, Vite, Tailwind v4, Radix, Vercel |
 | [**Guarapo Blocks API**](https://github.com/JuanDawd/guarapo-ssr) | Open-source REST API and docs for a UI blocks library, with a full OpenAPI spec | Next.js, Prisma, PostgreSQL, Jest |
 | [**juandawd.dev**](https://juandawd.dev) | My portfolio: bento grid, D3 visualizations, Framer Motion | React 19, Vite 7, Tailwind v4 |
 | **Self-hosted homelab** | Vaultwarden on a Raspberry Pi behind Cloudflare Tunnel + Access (no open ports), daily backups, migrating to Proxmox | Docker, Cloudflare, Linux |
@@ -63,29 +63,20 @@ Full-Stack Developer who owns the whole stack, from schema to UI to deployment. 
 
 <div align="center">
 
-## My default stack in 2026
-
-`Next.js App Router` · `Neon Postgres + Drizzle` · `Better Auth` · `shadcn/ui + Tailwind` · `TanStack Query + Zustand` · `React Hook Form + Zod` · `Vitest + Playwright` · `Turborepo` · `Vercel`
-
-</div>
-
-<div align="center">
-
 ## Languages
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart"/>
-<img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
 
-## Tech Stack
+## My Stack
 
 ### Frontend
 
 <img src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Angular-E23237.svg?style=for-the-badge&logo=Angular&logoColor=white" alt="Angular"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+<img src="https://img.shields.io/badge/Zod-3E67B1.svg?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
 <img src="https://img.shields.io/badge/Framer%20Motion-0055FF.svg?style=for-the-badge&logo=Framer&logoColor=white" alt="Framer Motion"/>
 <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite"/>
 <img src="https://img.shields.io/badge/Zustand-443E38.svg?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/>
@@ -101,19 +92,14 @@ Full-Stack Developer who owns the whole stack, from schema to UI to deployment. 
 <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white" alt="Redis"/>
 <img src="https://img.shields.io/badge/Drizzle-C5F74F.svg?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/>
-
-### Mobile
-
-<img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/ionic%20-%233880FF.svg?&style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
-<img src="https://img.shields.io/badge/capacitor%20-%23119EFF.svg?&style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor"/>
+<img src="https://img.shields.io/badge/Neon-00E599.svg?style=for-the-badge&logo=neon&logoColor=black" alt="Neon"/>
 
 ### Infrastructure & Tooling
 
 <img src="https://img.shields.io/badge/Turborepo-EF4444.svg?style=for-the-badge&logo=Turborepo&logoColor=white" alt="Turborepo"/>
 <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/github%20actions%20-%232088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white" alt="Google Cloud"/>
 <img src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
@@ -123,7 +109,5 @@ Full-Stack Developer who owns the whole stack, from schema to UI to deployment. 
 
 <img src="https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white" alt="Vitest"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright"/>
-<img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/>
-
 
 </div>
